@@ -412,7 +412,7 @@
     "top_level_sheets": [
       {
         "filename": "E-reader.kicad_sch",
-        "name": "Root",
+        "name": "Soquartz wiring",
         "uuid": "bcc0a360-382d-49a3-9cc2-bd35b82cdeaa"
       }
     ],
@@ -422,7 +422,11 @@
   "sheets": [
     [
       "bcc0a360-382d-49a3-9cc2-bd35b82cdeaa",
-      "Root"
+      "Soquartz wiring"
+    ],
+    [
+      "1687a953-f555-449d-9648-d7e444cec8c2",
+      "Power management"
     ]
   ],
   "text_variables": {},
