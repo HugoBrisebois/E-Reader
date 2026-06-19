@@ -1113,6 +1113,28 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 12.7 12.7)
+		(end 86.36 87.63)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "e5cf6aad-7961-49f3-b468-cc1248019afb")
+	)
+	(text "USB-C Charging port"
+		(exclude_from_sim no)
+		(at 74.93 86.106 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8865a015-4726-4bd0-b56d-346fa8e5f992")
+	)
 	(junction
 		(at 44.45 71.12)
 		(diameter 0)
